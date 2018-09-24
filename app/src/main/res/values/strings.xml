@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pelucheapp2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="inv">Inventario</string>
+    <string name="agre">Agregar</string>
+    <string name="bus">Buscar</string>
+    <string name="elim">Eliminar</string>
+    <string name="inven">Inventario</string>
+    <string name="pel">PeluchitosApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mee">asdasdasdasdasdasda</string>
+    <string name="nombre">Nombre del Peluche:</string>
+    <string name="precio">Precio (Pesos):</string>
+    <string name="unidades">Unidades:</string>
+    <string name="peluchesapp">PeluchesApp</string>
+    <string name="Actu">Actualizar</string>
+    <string name="id">Id</string>
+    <string name="Pactica4">Practica4</string>
+</resources>
